@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vatszal
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning flask and js
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me https://www.linkedin.com/in/vatsal-mittal-5a55a9293/
 
 <!---
