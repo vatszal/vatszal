@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatszal
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning flask and js
+- 🌱 I’m currently learning front-end development
 - 📫 How to reach me https://www.linkedin.com/in/vatsalmittal/
 
 <!--- 💞️ I’m looking to collaborate on ...
