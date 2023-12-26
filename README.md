@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vatsal
+- 👋 Hi, I’m Vatsal
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning front-end development
 - 📫 How to reach me https://www.linkedin.com/in/vatsalmittal/
